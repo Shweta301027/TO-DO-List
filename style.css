@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: cursive;
+    
+    /* background-color: rgb(247, 210, 229); */
+}
+.header{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwyPhWj35mpWYAmI5TQBrqXOCmMcgeH4wmNw&usqp=CAU);
+    text-align: center;
+    padding: 100px 0;
+}
+#todo-item{
+    padding: 10px;
+    width: 50%;
+    font-size: 1.3rem;
+    border-radius: 10px;
+}
+.addBtn{
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1.2rem;
+}
+ul{
+    text-align: center;
+}
+li{
+    border: 1px solid pink;
+    font-size: 1.4rem;
+}
